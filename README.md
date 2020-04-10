@@ -14,11 +14,9 @@ We will go over how to use this repository in the first Lab discussion.
 
 ## Week 2
 
-[Main Exploratory Data Anlysis Notebook]
-(https://github.com/isakbosman/cs274p/blob/master/nbs/Exploratory%20Data%20Analysis.ipynb)
+[Main Exploratory Data Anlysis Notebook](https://github.com/isakbosman/cs274p/blob/master/nbs/Exploratory%20Data%20Analysis.ipynb)
 
 [Updated File To Improve Heart Disease Classification to 100%](https://github.com/isakbosman/cs274p/blob/master/nbs/Our%20First%20Neural%20Network%20.ipynb)
 
-[EDA for Heart Disease Data]
-(https://github.com/isakbosman/cs274p/blob/master/nbs/Heart_Disease.ipynb)
+[EDA for Heart Disease Data](https://github.com/isakbosman/cs274p/blob/master/nbs/Heart_Disease.ipynb)
 
